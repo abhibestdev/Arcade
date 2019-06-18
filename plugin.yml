@@ -1,0 +1,9 @@
+name: Arcade
+version: 1.0
+main: me.abhi.arcade.Arcade
+commands:
+  setspawn:
+  vote:
+  setregion:
+  devstart:
+  pause:
